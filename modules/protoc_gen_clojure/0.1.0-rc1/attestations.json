@@ -1,0 +1,17 @@
+{
+    "mediaType": "application/vnd.build.bazel.registry.attestation+json;version=1.0.0",
+    "attestations": {
+        "source.json": {
+            "url": "https://github.com/bpalermo/protoc-gen-clojure/releases/download/v0.1.0-rc1/source.json.intoto.jsonl",
+            "integrity": "sha256-ivVbqgMXMFGNnZ5uKrkIcMeEDcfGbCVhZW6c87WHZNY="
+        },
+        "MODULE.bazel": {
+            "url": "https://github.com/bpalermo/protoc-gen-clojure/releases/download/v0.1.0-rc1/MODULE.bazel.intoto.jsonl",
+            "integrity": "sha256-zPJspWX6+vaf4xz3ubWP5F/fI903LlmSXul42v9YPqU="
+        },
+        "protoc-gen-clojure-module.tar.gz": {
+            "url": "https://github.com/bpalermo/protoc-gen-clojure/releases/download/v0.1.0-rc1/protoc-gen-clojure-module.tar.gz.intoto.jsonl",
+            "integrity": "sha256-1H3FXo7VHIUCI/ctwQ2tq4MS0BSdf7FT70pSlEg32eo="
+        }
+    }
+}
